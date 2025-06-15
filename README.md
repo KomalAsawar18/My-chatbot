@@ -22,7 +22,7 @@
 - **Other Tools:** Git, GitHub
 
 
-##🙋‍♀️ Author
+## 🙋‍♀️ Author
 
 Komal Asawar
 🔗 LinkedIn: www.linkedin.com/in/komal-asawar-30b540252
